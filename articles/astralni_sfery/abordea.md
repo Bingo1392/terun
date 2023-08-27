@@ -1,4 +1,4 @@
-![Krajina Abordeyi](../../../public/img/astral_spheres/abordea.png)
+![Krajina Abordeyi](../../public/img/astral_spheres/abordea.png)
 
 ## Abordea
 

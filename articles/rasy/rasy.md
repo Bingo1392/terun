@@ -8,19 +8,19 @@ Lidi pohání jejich víra. Víra v ně samotné a víra v instituce. S instituc
 
 #### Populové
 
-![Populové](../../../public/img/races/popul.png)
+![Populové](../../public/img/races/popul.png)
 
 Populové jsou nejrozšířenějším lidským rodem a představujou hlavního zástupce lidské rasy.
 
 #### Skalové
 
-![Skalové](../../../public/img/races/skal.png)
+![Skalové](../../public/img/races/skal.png)
 
 Skalové jsou divočinou ošlehaným surovým rodem lidí, který si zvykl na drsný život mimo civilizaci. Tvoří spolu společenství, žijí v klanech, bojují mezi sebou a s přírodou, která je obklopuje či drancují civilizovaná království.
 
 #### Kremeni
 
-![Kremeni](../../../public/img/races/kremen.png)
+![Kremeni](../../public/img/races/kremen.png)
 
 jedná se o rasu lidí, kteří si nechali vytetovat magická tetování, do kterých přijali mladého démona. démon jim prodlužuje život a propůjčuje magické schopnosti. Jejich fyziologie se za dlouhou dobu změnila tak, že v dospělosti již nejsou schopni přežít bez démona, který přebývá v jejich kůži. V pubertě každý Kremen projde rituálem Šalma Rý, při kterém jsou mu vytetovány magické runy a jiné obrazce na tělo a do kterých přijme svého démona astrálních sfér.
 
@@ -28,7 +28,7 @@ Této symbiózy využívá jiní démoni astrálních sfér. Říkají si Krelov
 
 #### Gobři
 
-![Gobři](../../../public/img/races/gobr.png)
+![Gobři](../../public/img/races/gobr.png)
 
 Gobři jsou magií přetvoření lidé ve velké chlupaté hromotluky s obrovskou silou a skvělou regenerací. Gobrem se může stát jak žena, tak muž, ale přeměna je sterilizuje. Navíc se jim vrátí určité agresivní zvířecí rysy.
 
@@ -50,19 +50,19 @@ V době úpadku se skřítci združují v malých komunitách o pár desítkách
 
 #### Mandi
 
-![Mandi](../../../public/img/races/mandi.png)
+![Mandi](../../public/img/races/mandi.png)
 
 Mandi jsou skřítci, kteří žijí v soužití s přírodou, která je obklopuje. Využívají jí k budování svých příbytků ...
 
 #### Tonga
 
-![Tonga](../../../public/img/races/tonga.png)
+![Tonga](../../public/img/races/tonga.png)
 
 Tonga jsou váleční skřítci, pro které je čest vším. Vehementně si brání své věci. ...
 
 #### Goblini
 
-![Goblini](../../../public/img/races/goblin.png)
+![Goblini](../../public/img/races/goblin.png)
 
 Goblini jsou magií přeměnění zohyzdnění skřítci, jejiž pokroucená mysl dokáže uznávat pouze sílu a krutost. Goblinní mysl je zjednodušena a nedokáží si představit život bez svého krutého pána. Pohání je strach z nesplnění jeho rozkazů a nebojí se jakékoliv špatnosti. Goblin svého pána nesnáší a zároveň ho fanaticky miluje. Goblinem se může magicky stát pouze skřítčí muž. Žena by přeměnu nepřežila. ...
 

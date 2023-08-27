@@ -1,4 +1,4 @@
-![Krajina Vendarielu](../../../public/img/astral_spheres/vendariel.png)
+![Krajina Vendarielu](../../public/img/astral_spheres/vendariel.png)
 
 ## Vendariel
 
