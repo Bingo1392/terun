@@ -1,0 +1,10 @@
+{
+  "name": "terun",
+  "version": "0.1.0",
+  "description": "Fantasy svět pro hry na hrdiny",
+  "main": "index.html",
+  "keywords": ["Hry na hrdiny", "fantasy svět"],
+  "author": "Jan Žitník",
+  "email": "mail@janzitnik.com",
+  "license": "CC BY-NC-ND"
+}
