@@ -2,7 +2,7 @@
 
 ### Krystaly many
 
-![Krajina Istrielu](../../../public/img/magical_crystal.png)
+![Krajina Istrielu](../../public/img/zdroje-bohatstvi/magicky-krystal.png)
 
 Jedná se o různorodé krystaly, které využívají alchymisté k výrobě magických předmětů.
 Nevýhodou některých krystalů je to, že může být nebezpečné s nimi pracovat.
@@ -93,7 +93,7 @@ V tomto případě je možný náhodný výbuch, který zničí vše kolem.
 
 ### Kůra Akimory
 
-![Kura_Akimory](../../../public/img/akimora.png)
+![Kura_Akimory](../../public/img/zdroje-bohatstvi/akimora.png)
 
 Akimora je černá vrba, která roste v oblastech bažin.
 Z tohoto stromu je zajímavá pouze kůra, kterou užívají alchymisté k získání vázané many a tedy i výrobu magických předmětů. Po vyčerpání vázané many není odpad nevyužitelný a nadále se z něho vyrábí černá barva.
@@ -101,7 +101,7 @@ Kůru je možné sklízet ze stromů tlustých alespoň kolem 25 coulů. Po skli
 
 ### Megwa
 
-![Megwa](../../../public/img/megwa.png)
+![Megwa](../../public/img/zdroje-bohatstvi/megwa.png)
 
 Megwa je strom rostoucí v džunglích tropického pásu. Jedná se o tmavé dřevo prorostlé zelenými žilami magie.
 Megwa se nehodí k výrobě jakýchkoliv zbraní.
@@ -118,7 +118,7 @@ Mechanicky to funguje tak, že předmět vyrobený z Megwy dostane jeden náhodn
 
 ### Emeretová ruda
 
-![Emeretova_ruda](../../../public/img/emeret_ore.png)
+![Emeretova_ruda](../../public/img/zdroje-bohatstvi/emeretova-ruda.png)
 
 Emeret je vzácný narudlý kov prorostlý rudými až světelkujícími rudými žílami magie.
 Není tak tvrdý jako železo a s ocelí se nedá porovnávat, ale je vhodný k výrobě magických předmětů, jelikož posiluje jejich účinky.
@@ -134,7 +134,7 @@ Mechanicky to znamená, že kouzelný předmět vyrobený z Emeretové rudy má 
 
 ### Adaková ruda (skořábková ruda)
 
-![Adakova_ruda](../../../public/img/adak_ore.png)
+![Adakova_ruda](../../public/img/zdroje-bohatstvi/adakova-ruda.png)
 
 Adakus je vzácný neutrální až namodralý kov.
 Je velmi silný, ale práce s ním je náročná.

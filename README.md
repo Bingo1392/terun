@@ -8,10 +8,8 @@ Tento projekt existuje především proto, že potřebuji svět, ve kterém se o
 
 Jazykem projektu je čeština. Je to dáno tím, že je určen pro hry vedené v českém jazyce a je zde i předpoklad, že přispěvatelé budou ovládat češtinu na vysoké úrovni. Případná portace do jiných jazyků není v budoucnu vyloučena, ale definitivně není v tuto chvíli na Roadmapě projektu.
 
-## Užité nástroje a licence
+## Užité nástroje
 
 * Předloha a generování základních geoinformací: [Azghaarův generátor fantasy map](https://azgaar.github.io/Fantasy-Map-Generator/)
 * Ilustrace: [Midjourney](https://www.midjourney.com/)
 * Mapy: [Wonderdraft](https://www.wonderdraft.net/)
-
-CC BY-NC-SA

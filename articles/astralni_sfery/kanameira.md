@@ -1,4 +1,4 @@
-![Krajina Kanameiry](../../../public/img/astral_spheres/kanameira.png)
+![Krajina Kanameiry](../../public/img/astral_spheres/kanameira.png)
 
 ## Kanameira
 

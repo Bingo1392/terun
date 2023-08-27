@@ -24,7 +24,7 @@ Bytosti s duší mají schopnost strachovat se o ostatní a myslet na obecné do
 
 ### Sénanti
 
-![Sénanti](../../../public/img/monsters/senant.png)
+![Sénanti](../../public/img/monsters/senant.png)
 
 Potomci Téra a Uny. Někdy též známí jako nebešťané.
 Mají duši stejně jako jiní smrtelníci a stejně tak jsou obdařeni i svobodnou vůlí.
@@ -51,7 +51,7 @@ Bytosti bez duše nemohou nijak vstoupit do astrální sféry, jelikož nemají 
 
 ### Draci
 
-![Draci](../../../public/img/monsters/dragon.png)
+![Draci](../../public/img/monsters/dragon.png)
 
 Velcí okřídlení ještěři.
 Jedná se o služebníky sénantů, kteří je užívají pro cestování mezi světy.
@@ -68,7 +68,7 @@ Jednotlivé typy draků jsou popsány v bestiáři Pravidel Dračí Hlídky (PPP
 
 ### Orkové
 
-![Orkove](../../../public/img/monsters/orc.png)
+![Orkove](../../public/img/monsters/orc.png)
 
 Znetvořené bytosti bez duše.
 Jejich přirozenost je ubližovat jiným a to jak fyzicky, tak psychicky.

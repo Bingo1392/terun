@@ -1,4 +1,4 @@
-![Krajina Gulemerie](../../../public/img/astral_spheres/gulemeria.png)
+![Krajina Gulemerie](../../public/img/astral_spheres/gulemeria.png)
 
 ## Gulemeria
 
