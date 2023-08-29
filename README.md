@@ -12,3 +12,7 @@ Tento projekt existuje především proto, že potřebuji svět, ve kterém se o
 * Heraldika: [Generátor heraldiky Armoria](https://azgaar.github.io/Armoria/)
 * Ilustrace: [Generátor obrázků Midjourney](https://www.midjourney.com/)
 * Mapy: [Nástroj pro tvorbu fantasy map Wonderdraft](https://www.wonderdraft.net/)
+
+## Stav projektu
+
+Projekt je momentálně v aktivním vývoji a to v počáteční fázi. Více informací o tom, co je potřeba ještě udělat nebo se již povedlo je k nalezení v [Roadmapě projektu](https://github.com/Bingo1392/terun/wiki/Roadmapa).
