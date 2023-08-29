@@ -4,12 +4,11 @@ Térun je projekt, který přináší rozmanitý svět pro Vaše hry na hrdiny. 
 
 ## Proč?
 
-Tento projekt existuje především proto, že potřebuji svět, ve kterém se odehrávají dobrodružství, která odehráváme s přáteli.
-
-Jazykem projektu je čeština. Je to dáno tím, že je určen pro hry vedené v českém jazyce a je zde i předpoklad, že přispěvatelé budou ovládat češtinu na vysoké úrovni. Případná portace do jiných jazyků není v budoucnu vyloučena, ale definitivně není v tuto chvíli na Roadmapě projektu.
+Tento projekt existuje především proto, že potřebuji svět, ve kterém se odehrávají dobrodružství, která prožívají postavy mých spoluhráčů.
 
 ## Užité nástroje
 
 * Předloha a generování základních geoinformací: [Azghaarův generátor fantasy map](https://azgaar.github.io/Fantasy-Map-Generator/)
-* Ilustrace: [Midjourney](https://www.midjourney.com/)
-* Mapy: [Wonderdraft](https://www.wonderdraft.net/)
+* Heraldika: [Generátor heraldiky Armoria](https://azgaar.github.io/Armoria/)
+* Ilustrace: [Generátor obrázků Midjourney](https://www.midjourney.com/)
+* Mapy: [Nástroj pro tvorbu fantasy map Wonderdraft](https://www.wonderdraft.net/)
