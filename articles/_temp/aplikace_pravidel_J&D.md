@@ -92,3 +92,24 @@ Schopnost všech Garmuních ras: Vidění ve tmě - na 30 sáhů vidí černobí
 * **Verx** - velkým mozkem obdaření hmyzí lidé.
     * Velikost: B, Výška: 150-180 coulů, Váha: 45-75 lb, Pohyblivost: 30 + OBR, Schopnost: Hypnotizující pohled: V případě, že se dívá druhému do očí, má výhodu (bonus +5) na jakýkoliv hod ovlivňující myšlení druhého (platí pro hody na dovednosti i na hody na magické schopnosti). Síla: 6, Obratnost: 6, Odolnost: 6, Inteligence: 10, Charisma: 5.
 * **Feret** - Fereti nemají vlastní vůli - nelze za ně tedy hrát. Technicky však mají stejné atributy jako ti, které ovládnou.
+
+### Pravidla pro životy dobrodruhů
+
+Životy stoupají pouze do 10. úrovně včetně. Od 11. úrovně se již nezvyšují. Navíc se zvyšují standardním způsobem do 3. úrovně. Dále dostává postava buď 1+ODL nebo 2+ODL (záleží na povolání).
+
+* Alchymista: 8+ODL, 5+ODL, 5+ODL, 1+ODL
+* Barbar: 12+ODL, 7+ODL, 7+ODL, 2+ODL
+* Bard: 8+OLD, 5+ODL, 5+ODL, 1+ODL
+* Bojovník: 10+ODL, 6+ODL, 6+ODL, 2+ODL
+* Čaroděj: 6+ODL, 4+ODL, 4+ODL, 1+ODL
+* Černokněžník: 8+ODL, 5+ODL, 5+ODL, 1+ODL
+* Druid: 8+ODL, 5+ODL, 5+ODL, 1+ODL
+* Klerik: 8+ODL, 5+ODL, 5+ODL, 1+ODL
+* Kouzelník: 6+ODL, 4+ODL, 4+ODL, 1+ODL
+* Lovec netvorů: 10+ODL, 6+ODL, 6+ODL, 2+ODL
+* Tulák: 8+ODL, 5+ODL, 5+ODL, 1+ODL
+
+### Pravidla pro životy ostatních
+
+* Obyčejní obyvatelé bez dobrodružného povolání: 4+ODL, 4+ODL, 4+ODL, 1+ODL
+  * Může se jednat o řemeslníky, kteří však mají standardní povolání a mají třeba i vyšší úroveň ve své disciplíně.
