@@ -1,4 +1,4 @@
-![Krajina Nudielu](../../public/img/astral_spheres/nudiel.png)
+![Krajina Nudielu](../../public/img/astralni_sfery/nudiel.png)
 
 ## Nudiel
 

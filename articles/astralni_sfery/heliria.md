@@ -1,4 +1,4 @@
-![Krajina Helirie](../../public/img/astral_spheres/heliria.png)
+![Krajina Helirie](../../public/img/astralni_sfery/heliria.png)
 
 ## Heliria
 

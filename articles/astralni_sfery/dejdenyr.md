@@ -1,4 +1,4 @@
-![Krajina Dejdenyru](../../public/img/astral_spheres/dejdenyr.png)
+![Krajina Dejdenyru](../../public/img/astralni_sfery/dejdenyr.png)
 
 ## Dejdenyr
 
