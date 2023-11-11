@@ -44,4 +44,32 @@ Druidské runy jsou jednoduché znaky podobné standardní abecedě.
 
 Kodex, podle kterého se musí všichni druidové chovat. Pokud se najde jedinec, který nedodržuje kodex, je takový jedinec nahlášen na druidském sněmu. V rámci sněmu se může obviněný bránit. Na konci sněmu je vydán rozsudek a obviněný musí v případě viny napravit své činy. V krajním případě může být z druidského společenství vyloučen. Takovému druidovi se přezdívá zlodruid.
 
-> TBD: Dodělat Druidský kodex
+**Pravidla druidského kodexu**:
+
+1. Harmonie s přírodou
+    * Respektuj a ochraňuj přírodu a její obyvatele, jelikož všechen život je propojen.
+    * Neúčastni se drancování přírodních zdrojů a vždy se zasazuj o navrácení rovnováhy.
+2. Rovnováha života a smrti
+    * Smrt je součástí přirozeného životního cyklu. Nezasahuj do zákona přirozené smrti, jedině pokud by byla narušena rovnováha ekosystému.
+    * Uctívej duchy zemřelých a nabízejte jim klidný přechod do posmrtného života
+3. Ochránce divočiny
+    * Služte jako ochránce divočiny a braňte ji před těmi, kteří jí bezdůvodně poškozují.
+    * Sdílejte znalosti o divočině s těmi, kteří chtějí žít v soužití s přírodou.
+4. Uvážlivá magie
+    * Nikdy neužívejte magii k vykořisťování nebo ovládání přirody či jejích tvorů.
+    * Nepoužívejte destruktivní magii, která by mohla poškodit krajinu. K takovým prostředkům sáhněte až v tom nejzašším případě k sebeobraně.
+5. Spřízněnost se zvířaty
+    * Chovejte se ke zvířatům jako ke spojencům či přátelům.
+    * Nevyužívejte zvířata pro osobní prospěch a nehoňte je ke sportovním účelům.
+6. Posvátná místa
+    * Chraňte posvátné druidské háje, starobylé stromy a další přírodní místa moci.
+    * Většinu rituálů a obřadů provádějte na těchto místech, abyste udržely jejich posvátnou podstatu.
+7. Komunikace s duchy
+    * Komunikujte s duchy elementů a žádejte je o radu.
+    * Nemanipulujte s duchy elementů proti jejich vůli.
+8. Spojenci podobných myšlenek
+    * Spolupracujte s dalšími druidy, hajnými a těmi, kteří následují druidský kodex.
+    * Sdílejte znalosti a nápady mezi svými spojenci.
+9. Naprostá rovnováha
+    * Usilujte o rovnováhu ve svém vlastním životě. Cesta druida znamená jak lásku, tak destruktivní aspekty přírody.
+    * Vyhýbejte se extrémním ideologiím a názorům, které mohou rovnováhu narušit.
