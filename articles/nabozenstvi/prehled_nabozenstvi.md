@@ -42,12 +42,24 @@ xxx
 
 ### Vzývání Krelů
 
+- Není nutné řešit teď
+
 ### Učení Xang
+
+- Není nutné řešit teď
 
 ### Torzovi následovníci
 
+- Není nutné řešit teď
+
 ### Magický Kruh
+
+- Je potřeba vyřešit - ateisté se zaměřením na magický pokrok.
 
 ### Orynovo Učení
 
+- Je potřeba vyřešit - podobný jako druidismus a navíc pán iluzí Oryn.
+
 ### Orynovi děti
+
+- Je potřeba vyřešit - pán iluzí Oryn.
