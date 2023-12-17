@@ -213,13 +213,3 @@ Pán nebes, vichrů a bouří. Vládne hromem a bleskem, dokáže zahustit nebes
 Hlavním zdrojem vědění a předávání znalostí je kniha zvaná Sénanta. Tato kniha ujednává, jak vznikl vesmír a svět kolem nás. Také seznamuje čtenáře s mocnými bytostmi zvanými Sénanti a také s tím, jak by měli uctívači sénantů žít pro dobrý a spokojený život.
 
 V rámci víry jsou velmi důležité takzvané ikony. Jedná se o rozkládací obrazy, které zachycují nějaký výjev popsaný v Sénantě. Tyto ikony mohou (ale nemusí) mít magické účinky. Téměř v každém chrámu lze nějakou tu ikonu najít.
-
-Vyprávění a posvátná psaní se předávají hlavně pomocí jazyka známého jako Esteron nebo Esteronština a pomocí písma zvaného Herbrinské písmo. Klerikové Sénantské víry káží při bohoslužbách přímo ze Sénanty. Překládají svatý text a přibližují tak události ze života Sénantů i těm, kteří neumějí číst či neumějí Esteronsky.
-
-### Esteronština a Herbrinské písmo
-
-> TBD - dodělat
-
-### Mytologie a historie Astarogu dle Sénanty
-
-> TBD - dodělat

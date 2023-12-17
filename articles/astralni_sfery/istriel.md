@@ -1,4 +1,4 @@
-![Krajina Istrielu](../../../public/img/astral_spheres/istriel.png)
+![Krajina Istrielu](../../../public/img/astralni_sfery/istriel.png)
 
 ## Istriel
 
