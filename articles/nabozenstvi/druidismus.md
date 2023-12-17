@@ -24,7 +24,7 @@ Hierarchie Druidského společenství:
 
 - *Lešen* - Lešeni jsou druidi, kteří ještě nemají schopnost probouzet či uspávat hvozd. Splnili Lešenské zkoušky a znají základy pouta s přírodou. Lešeni buď pomáhají místním komunitám nebo cestují po světě a pomáhají, jak mohou. Mnoho Lešenů pomáhá se společenskými obřady typu svatba či pohřeb. Lešeni se mohou účastnit druidského sněmu, ale nemají hlasovací právo. Často také Lešeni plní mise zadané nějakým druidem, který buď nemá na tyto úkoly čas nebo chce dát Lešenovi možnost se ukázat.
 
-- *Poupan* - Jedná se o učedníka na druida. Není ještě tak schopný, aby dostatečně navázal spojení s přírodou. Většinou se jedná o mladé chlapce nebo dívky do 18 let věku. Mechanicky to nejsou ani postavy na 1. úrovni, ale mladí učňové, co pořádně nic neumí.
+- *Poupan* - Jedná se o učedníka na druida. Není ještě tak schopný, aby dostatečně navázal spojení s přírodou. Většinou se jedná o mladé chlapce nebo dívky do 18 let věku.
 
 ### Další charakteristiky
 
@@ -34,11 +34,7 @@ Hierarchie Druidského společenství:
 
 ### Literatura, umění a předávání znalostí
 
-V rámci Druidismu se předávají znalosti ve většině pouze ústně. Velkou měru na tom, jak tyto znalosti předávat má i druidský sněm, který zároveň definuje druidský kodex. Když už něco musí druidé zapsat, zapisují to ve starém písmu zvaného Faríza - nebo-li druidské runy.
-
-#### Faríza (Druidské runy)
-
-Druidské runy jsou jednoduché znaky podobné standardní abecedě.
+V rámci Druidismu se předávají znalosti ve většině pouze ústně. Velkou měru na tom, jak tyto znalosti předávat má i druidský sněm, který zároveň definuje druidský kodex. Když už něco musí druidé zapsat, zapisují to ve starých druidských runách.
 
 #### Druidský kodex
 
