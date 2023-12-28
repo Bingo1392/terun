@@ -47,3 +47,12 @@ Od 8. do 12. úrovně se pohybují mocní, kteří určují dějiny královstíc
 ### Legendy
 
 Od 13. úrovně jsou brány bytosti jako legendy, o kterých se bude vyprávět ještě dlouhá léta a zpívat písně.
+
+## Síla hrdinů VS síla obyvatel světa
+
+### Poskok
+
+Většina nedůležitých obyvatel jsou prostě poskoci. Ačkoliv mohou mít stejnou úroveň jako hrdinové, nejsou tak silní. Platí pro ně jiná pravidla.
+
+Poskoci mají:
+*
