@@ -1,12 +1,12 @@
 ## Elfská náboženství
 
-Elfská náboženství, jak název napovídá, mají největší základnu věřících mezi Elfy. Není se čemu divit. V podstatě všechna tato náboženství mají společného předka. Tím je Oryn - astrální lord a pán iluzí a snů.
+Elfská náboženství, jak název napovídá, mají největší základnu věřících mezi Elfy. Není se čemu divit. V podstatě všechna tato náboženství mají společného předka. Tím je Oryn - astrální lord, pán iluzí a snů.
 
 Většina věřících v tyto náboženství jsou právě Elfové. Jedná se o velmi uzavřená náboženství a stejně, jako si elfové nedovedou představit, že by byl součástí jejich náboženství někdo jiného než elfského původu, nedokáží si ani představit, že by věřili v jiné, než v elfské bohy.
 
 ### Literatura, umění a předávání znalostí
 
-Elfové používají svůj jazyk - elfštinu.
+Elfové používají jazyk Istrielština -
 
 ### Magický kruh
 

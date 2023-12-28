@@ -54,5 +54,11 @@ Od 13. úrovně jsou brány bytosti jako legendy, o kterých se bude vyprávět 
 
 Většina nedůležitých obyvatel jsou prostě poskoci. Ačkoliv mohou mít stejnou úroveň jako hrdinové, nejsou tak silní. Platí pro ně jiná pravidla.
 
-Poskoci mají:
-*
+Pro poskoky platí:
+* V základu mají postih -2 ke všem atributům.
+* Získají schopnost danou povoláním pouze každou sudou úroveň.
+* Neplatí pro ně nutnost znát určité schopnosti k 
+* Získávají pouze polovinu dovednostních bodů (pouze každou lichou úroveň).
+* Polovinu životů, než obvykle.
+
+### 
