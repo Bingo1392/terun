@@ -118,6 +118,8 @@ Goblini od své proměny žijí dalších asi 30 let. Vyjímečně 60 let.
 
 ### Elfové
 
+> TBD: Tohle předělat. Vymyslel jsem si, že jsou elfové nesmrtelní vzhledem k tomu, že jsou to víly.
+
 Elfové jsou původně bytosti ze snové sféry Istriel. Legendy vyprávějí, že jsou to pánové snů a dokáží sny ostatních ovlivňovat. Po mnohých eónech se však jejich společnost rozdělila. Část elfů chtěla pokračovat ve spřádání snů, jiní chtěli okusit opravdový život v materiální sféře. Za pomoci mocných elfských čarodějů se nakonec podařilo elfům dostat ze snové do materiální sféry a usadit se v ní.
 
 Elfové jsou svým vzezřením podobní lidem. Jsou mírně menší, povětšinou štíhlí. Mívají dlouhé rovné vlasy a krásné symetrické tvary v obličeji. Oči různých exotických barev jako je fialová, oranžová, bílá, červená, černá, ale i standardních jako jsou modrá, zelená či hnědá. Barva vlasů bývá černá, hnědá, bloďatá či naprosto sněhově bílá.

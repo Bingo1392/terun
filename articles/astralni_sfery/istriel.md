@@ -1,4 +1,4 @@
-![Krajina Istrielu](../../../public/img/astralni_sfery/istriel.png)
+![Krajina Istrielu](../../public/img/astralni_sfery/istriel.png)
 
 ## Istriel
 
@@ -7,6 +7,10 @@ Sféra Istriel je místem, kde se sny stávají skutečností. Do této sféry s
 Astrálním lordem sféry Istriel je Oryn - pán snů. To on vytvořil tuto sféru, kam si mohou duše jít odpočinout od každodenní všednosti materiálního světa a zažít fantasktní dobrodružství.
 
 Přirozenými obyvateli snové sféry Istriel jsou víly. Víly dokáží putovat mezi sny a ovlivňovat jejich realitu. Některé víly pomáhají vytvářet krásné sny, jiné noční můry.
+
+Víly vznikají díky stromu duší. Jedná se o velký strom, který plodí zářicí žaludy či šišky. To záleží na druhu stromu. Pro každý typ víly se jedná o jiný strom duší. Tento plod je nutné za specifických podmínek umístit na srdce ze dřeva vyřezané bytosti. Po nějaké době se bytost promění v bytost z masa a kostí. Následně ožije. Víly tedy nemají děti - jsou vždy dospělí a tak, jak jsou vyřezaní, tak budou vypadat do skonání všech dní.
+
+Víly tedy nestárnou a nemohu zemřít přirozenou smrtí.
 
 Dostat se do sféry Istriel je velmi jednoduché, stačí usnout. Ne každý spánek je bohatý na sny, ale existuje dobrá šance, že se duše bytosti do této sféry dostane. Co je opravdu těžké, je mezi jednotlivými sny cestovat. Toto umí pouze víly a samozřejmě i Oryn - pán sféry. Pokud se duši něco ve sféře stane většinou se okamžitě vrátí zpět do fyzického těla a bytost se probudí.
 
