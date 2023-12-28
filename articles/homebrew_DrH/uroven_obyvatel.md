@@ -50,15 +50,21 @@ Od 13. úrovně jsou brány bytosti jako legendy, o kterých se bude vyprávět 
 
 ## Síla hrdinů VS síla obyvatel světa
 
-### Poskok
+### Poskoci
 
 Většina nedůležitých obyvatel jsou prostě poskoci. Ačkoliv mohou mít stejnou úroveň jako hrdinové, nejsou tak silní. Platí pro ně jiná pravidla.
 
-Pro poskoky platí:
+Pro poskoky přibližně platí:
 * V základu mají postih -2 ke všem atributům.
 * Získají schopnost danou povoláním pouze každou sudou úroveň.
-* Neplatí pro ně nutnost znát určité schopnosti k 
-* Získávají pouze polovinu dovednostních bodů (pouze každou lichou úroveň).
-* Polovinu životů, než obvykle.
+* Neplatí pro ně nutnost znát určité schopnosti k získání specializace.
+* Získávají dovednosti pouze každou lichou úroveň.
+* Mají polovinu životů, než by standardně měli mít.
 
-### 
+Všechny parametry jsou naprosto změnitelné. Tyto body mají pro poskoky pouze nastínit určitý rámec, kterého je možné se držet.
+
+Z výše uvedeného vychází, že většina postav nemá žádné magické schopnosti na 1. úrovni a to je chtěný vedlejší efekt. Kouzelníci či klerikové na 1. úrovni jsou prostě jen učenci, kteří mají teoretické znalosti ze své oblasti, ale opravdovou magii zatím neovládají.
+
+### Hlavní postavy
+
+Pro hlavní postavy platí standardní pravidla.
