@@ -1,1 +1,0 @@
-## Následování Torza
